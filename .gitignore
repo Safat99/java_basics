@@ -1,0 +1,6 @@
+out/
+Exam.zip
+*.class
+*.iml
+ssh_cred.txt
+.idea/
